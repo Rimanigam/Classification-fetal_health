@@ -25,7 +25,7 @@ Columns:
 •	Hear beat counts details – The mean, median, mode, minimum, maximum, number of peaks, number of zeroes, variance and tendency.
 •	Fetal Health – Classified into three classes- Normal, Suspect and Pathological.
 
-DATA ANALYSIS : 
+DATA ANALYSIS :
 After exploring the dataset, there was a need to analyze the data. In this study, I aimed to find a correlation between Fetal Health and different factors, and compare them. I found that baseline value followed by decelerations and abnormal long-term variability have a high correlation with Fetal Health indicating they are major factors in predicting the Fetal Health.
 
 Y AND X VARIABLE FRAMEWORK : 
